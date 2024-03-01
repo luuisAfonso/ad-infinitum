@@ -1,0 +1,1 @@
+rootProject.name = "infinitum.com.ad-infinitum"
